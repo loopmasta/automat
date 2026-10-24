@@ -3,7 +3,7 @@
  *  Automat
  *
  *  Created by Stefan Beck on 23.07.07.
- *  Copyright 2007 alphakanal. All rights reserved.
+ *  Copyright (c) 2006-2008 Stefan Beck (stiwi@alphakanal, loopmasta). MIT License, see LICENSE.
  *
  */
 
