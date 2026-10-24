@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Automat1";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Automat1 v1.01, Copyright 2008 alphakanal";

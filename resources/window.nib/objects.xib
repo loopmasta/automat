@@ -1,0 +1,329 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <string name="targetFramework">IBCarbonFramework</string>
+  <object name="rootObject" class="NSCustomObject" id="1">
+    <string name="customClass">NSApplication</string>
+  </object>
+  <array count="35" name="allObjects">
+    <object class="IBCarbonUserPane" id="465">
+      <string name="bounds">0 0 380 805 </string>
+      <array count="32" name="subviews">
+        <object class="IBCarbonCustom" id="1256">
+          <string name="bounds">22 4 376 601 </string>
+          <ostype name="controlSignature">AUpn</ostype>
+          <string name="title">main</string>
+          <string name="classID">de.alphakanal.au.automat1.multipane</string>
+          <boolean name="allowsSubviews">TRUE</boolean>
+        </object>
+        <object class="IBCarbonCustom" id="1257">
+          <string name="bounds">4 607 17 686 </string>
+          <string name="title">panel,0,88FF00,39,13</string>
+          <ostype name="command">AUpn</ostype>
+          <string name="classID">de.alphakanal.au.automat1.switch</string>
+        </object>
+        <object class="IBCarbonCustom" id="1259">
+          <string name="bounds">4 717 17 796 </string>
+          <string name="title">random,1,88FF00,39,13</string>
+          <ostype name="command">RAND</ostype>
+          <string name="classID">de.alphakanal.au.automat1.switch</string>
+        </object>
+        <object class="IBCarbonCustom" id="1264">
+          <string name="bounds">35 760 70 795 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">89</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1265">
+          <string name="bounds">94 760 129 795 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">90</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1266">
+          <string name="bounds">153 760 188 795 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">91</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1267">
+          <string name="bounds">221 758 236 797 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">92</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1268">
+          <string name="bounds">280 758 295 797 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">93</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1269">
+          <string name="bounds">330 760 365 795 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">94</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1270">
+          <string name="bounds">212 660 247 695 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">86</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1271">
+          <string name="bounds">153 658 186 697 </string>
+          <ostype name="controlSignature">AUxy</ostype>
+          <string name="title">,88FF00,5</string>
+          <string name="classID">de.alphakanal.au.automat1.xy</string>
+        </object>
+        <object class="IBCarbonCustom" id="1272">
+          <string name="bounds">37 658 52 697 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">80</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1273">
+          <string name="bounds">330 660 365 695 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">88</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1274">
+          <string name="bounds">110 658 125 697 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">83</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1275">
+          <string name="bounds">51 658 66 697 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">81</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1276">
+          <string name="bounds">271 660 306 695 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">87</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1277">
+          <string name="bounds">96 658 111 697 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">82</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1278">
+          <string name="bounds">212 610 247 645 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">77</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1279">
+          <string name="bounds">94 610 129 645 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">75</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1280">
+          <string name="bounds">153 610 188 645 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">76</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1281">
+          <string name="bounds">330 610 365 645 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">79</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1282">
+          <string name="bounds">37 608 52 647 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">73</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1283">
+          <string name="bounds">271 610 306 645 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">78</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1290">
+          <string name="bounds">51 608 66 647 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">74</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1328">
+          <string name="bounds">3 246 18 385 </string>
+          <ostype name="controlSignature">AUtp</ostype>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <ostype name="command">WAVE</ostype>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1329">
+          <string name="bounds">3 428 18 567 </string>
+          <ostype name="controlSignature">AUtp</ostype>
+          <int name="controlID">1</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <ostype name="command">TUNG</ostype>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1330">
+          <string name="bounds">212 710 247 745 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">190</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1331">
+          <string name="bounds">94 710 129 745 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">188</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1332">
+          <string name="bounds">153 710 188 745 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">189</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1333">
+          <string name="bounds">330 710 365 745 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">192</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+        <object class="IBCarbonCustom" id="1334">
+          <string name="bounds">44 708 59 747 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">187</int>
+          <string name="title">,automat,8,1,88FF00,0,5,0</string>
+          <string name="classID">de.alphakanal.au.automat1.txtpop</string>
+        </object>
+        <object class="IBCarbonCustom" id="1335">
+          <string name="bounds">271 710 306 745 </string>
+          <ostype name="controlSignature">AUid</ostype>
+          <int name="controlID">191</int>
+          <string name="title">,88FF00,FFFFFF,0,11,0</string>
+          <string name="classID">de.alphakanal.au.automat1.knobArc</string>
+        </object>
+      </array>
+      <ostype name="controlSignature">AUid</ostype>
+      <int name="controlID">9999</int>
+      <int name="featureBits">2</int>
+    </object>
+    <object class="IBCarbonWindow" id="467">
+      <string name="windowRect">227 155 607 960 </string>
+      <string name="title">Window</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="471">
+        <string name="bounds">0 0 380 805 </string>
+        <array count="1" name="subviews">
+          <reference idRef="465"/>
+        </array>
+      </object>
+      <boolean name="standardHandler">FALSE</boolean>
+      <int name="carbonWindowClass">13</int>
+      <int name="themeBrush">53</int>
+    </object>
+    <reference idRef="471"/>
+    <reference idRef="1256"/>
+    <reference idRef="1257"/>
+    <reference idRef="1259"/>
+    <reference idRef="1264"/>
+    <reference idRef="1265"/>
+    <reference idRef="1266"/>
+    <reference idRef="1267"/>
+    <reference idRef="1268"/>
+    <reference idRef="1269"/>
+    <reference idRef="1270"/>
+    <reference idRef="1271"/>
+    <reference idRef="1272"/>
+    <reference idRef="1273"/>
+    <reference idRef="1274"/>
+    <reference idRef="1275"/>
+    <reference idRef="1276"/>
+    <reference idRef="1277"/>
+    <reference idRef="1278"/>
+    <reference idRef="1279"/>
+    <reference idRef="1280"/>
+    <reference idRef="1281"/>
+    <reference idRef="1282"/>
+    <reference idRef="1283"/>
+    <reference idRef="1290"/>
+    <reference idRef="1328"/>
+    <reference idRef="1329"/>
+    <reference idRef="1330"/>
+    <reference idRef="1331"/>
+    <reference idRef="1332"/>
+    <reference idRef="1333"/>
+    <reference idRef="1334"/>
+    <reference idRef="1335"/>
+  </array>
+  <array count="35" name="allParents">
+    <reference idRef="471"/>
+    <reference idRef="1"/>
+    <reference idRef="467"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+    <reference idRef="465"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>window</string>
+    <reference idRef="467"/>
+  </dictionary>
+  <unsigned_int name="nextObjectID">1337</unsigned_int>
+</object>

@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'Automat' target in the 'Automat' project.
+//
+
+//	#include <ApplicationServices/ApplicationServices.h>
+#include <AudioToolbox/AudioToolbox.h>
+#include <AudioUnit/AudioUnit.h>
+#include <Carbon/Carbon.h>
+//	#include <CoreServices/CoreServices.h>
+#include <vecLib/vecLib.h>
